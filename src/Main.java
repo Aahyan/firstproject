@@ -37,7 +37,3 @@ public class Main {
     }
 
         }
-
-//    float and double difference
-
-
